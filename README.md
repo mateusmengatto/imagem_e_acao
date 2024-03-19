@@ -29,7 +29,7 @@ Frase (5): Palavras de uma frase.
 Você pode atualizar, remover, e ampliar o repositório de palavras editando os arquivos da pasta "\listas_de_palavras"
 
 Licença
-Este projeto está licenciado sob a Licença [Nome da Licença]. Consulte o arquivo LICENSE para obter mais detalhes.
+Este projeto está licenciado sob a Licença GNU General Public License. Consulte o arquivo LICENSE para obter mais detalhes.
 
 Contato
 Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato através do email: mateusmengatto@gmail.com
