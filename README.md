@@ -11,7 +11,7 @@ Para utilizar este aplicativo, você precisará ter o Python e o PySide6 instala
 pip install PySide6
 ```
 
-Uso
+## Uso
 Para iniciar o aplicativo, execute o arquivo game.py:
 
 ```bash
@@ -28,8 +28,8 @@ Frase (5): Palavras de uma frase.
 
 Você pode atualizar, remover, e ampliar o repositório de palavras editando os arquivos da pasta "\listas_de_palavras"
 
-Licença
+## Licença
 Este projeto está licenciado sob a Licença GNU General Public License. Consulte o arquivo LICENSE para obter mais detalhes.
 
-Contato
+## Contato
 Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato através do email: mateusmengatto@gmail.com
